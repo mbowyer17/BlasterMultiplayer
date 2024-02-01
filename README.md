@@ -17,9 +17,9 @@ Blaster Multiplayer incorpates essentials features in a typical Multiplayer Thir
 
 <h2>Technologies Used </h2>
 
-- <b>C++</b> (21H2)
-- <b>Unreal Engine 5</b> (21H2)
-- <b>Mixamo </b> (21H2)
+- <b>C++</b> 
+- <b>Unreal Engine 5</b> 
+- <b>Mixamo </b>
 
 <h2>Feature Showcase:</h2>
 
