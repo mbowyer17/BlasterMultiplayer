@@ -24,32 +24,32 @@ Blaster Multiplayer incorpates essentials features in a typical Multiplayer Thir
 <h2>Feature Showcase:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Projectile Weapon: <br/>
+<img src="https://i.imgur.com/zGvLTaP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Hitscan Weapon:  <br/>
+<img src="https://i.imgur.com/0biRdzM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+FABIK Animation: <br/>
+<img src="https://i.imgur.com/KEXKNo6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Animation:  <br/>
+<img src="https://i.imgur.com/n3MhEWy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Animation Montages: <br/>
+<img src="https://i.imgur.com/s7n4NXc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Niagara Emitters:  <br/>
+<img src="https://i.imgur.com/iN8tRjP.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Player Elimination Dissolve Material:  <br/>
+<img src="https://i.imgur.com/AYlW06A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
