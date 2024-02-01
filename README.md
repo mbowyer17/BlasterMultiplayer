@@ -3,20 +3,25 @@
  ### [Vimeo Demonstration](https://vimeo.com/899241463)
 
 <h2>Description</h2>
-Blaster Multiplayer incorpates essentials features in a typical Multiplayer Third-Person Shooter, the player will  with basic projectile and hitscan shooting and movement functionality such as running, jumping, and crouching. Also includes combat features such as reloading and aiming guns. the weapons that have been used include ARs, pistols, Sniper rifles . 
+Blaster Multiplayer incorpates essentials features in a typical Multiplayer Third-Person Shooter, the player will  with basic projectile and hitscan shooting and movement functionality such as running, jumping, and crouching. Also includes combat features such as reloading and aiming guns. the weapons that have been used include ARs, pistols, Sniper rifles, Rocket Launcher and Grenade Launcher. This project incorpates a gamemode that tracks the players kills and deaths and displays the winner at the end of the round. This project is created following the the guidance of a Online Course, where it has helped with me discover new features of Unreal Engine that I havent discovered before.
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Features and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Projectile Weapons</b> 
+- <b>Hit Scan Weapons</b> 
+- <b>FABIK Animation</b>
+- <b>Animation Montages</b>
+- <b>Niagara Emitters</b>
 
-<h2>Environments Used </h2>
+<h2>Technologies Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>C++</b> (21H2)
+- <b>Unreal Engine 5</b> (21H2)
+- <b>Mixamo </b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Feature Showcase:</h2>
 
 <p align="center">
 Launch the utility: <br/>
